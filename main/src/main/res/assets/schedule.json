@@ -1,0 +1,499 @@
+{
+	
+	"schedule": [
+		{"day":"Monday",
+		 "activities": [
+			{"startHour": "07:15", 
+			 "endHour": "07:45",
+			 "activity" : "Aiguagym 30'",
+			 "color": "FFE817",
+			 "location": "PP",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "07:15", 
+			 "endHour": "08:00",
+			 "activity" : "Cycling",
+			 "color": "FF413B",
+			 "location": "S3",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "07:15", 
+			 "endHour": "08:00",
+			 "activity" : "Pilates",
+			 "color": "9D2CB0",
+			 "location": "S2",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "08:00", 
+			 "endHour": "08:30",
+			 "activity" : "DS Training",
+			 "color": "FFE817",
+			 "location": "Sala Fitness",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "08:00", 
+			 "endHour": "08:45",
+			 "activity" : "Aigua CTC",
+			 "color": "FFE817",
+			 "location": "PG",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "08:30", 
+			 "endHour": "09:00",
+			 "activity" : "GAC 30'",
+			 "color": "FFE817",
+			 "location": "S2",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "09:00", 
+			 "endHour": "09:45",
+			 "activity" : "Aigua CTC",
+			 "color": "FFE817",
+			 "location": "PP",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "09:00", 
+			 "endHour": "09:50",
+			 "activity" : "Gym D'Or CTC",
+			 "color": "9D2CB0",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "09:15", 
+			 "endHour": "10:05",
+			 "activity" : "Body Pump",
+			 "color": "FFE817",
+			 "location": "S2",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "09:30", 
+			 "endHour": "10:15",
+			 "activity" : "Cycling",
+			 "color": "FF413B",
+			 "location": "S3",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "10:00", 
+			 "endHour": "10:30",
+			 "activity" : "Circuit Fitness",
+			 "color": "FFE817",
+			 "location": "Sala Fitness",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "10:00", 
+			 "endHour": "10:45",
+			 "activity" : "Aigua CTC",
+			 "color": "FFE817",
+			 "location": "PG",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "10:00", 
+			 "endHour": "10:50",
+			 "activity" : "Let's Duet",
+			 "color": "FF413B",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "10:00", 
+			 "endHour": "10:50",
+			 "activity" : "Ioga",
+			 "color": "9D2CB0",
+			 "location": "S5",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "10:00", 
+			 "endHour": "11:00",
+			 "activity" : "Runners",
+			 "color": "FF413B",
+			 "location": "Sala Fitness",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "10:15", 
+			 "endHour": "11:05",
+			 "activity" : "Duet Training",
+			 "color": "FFE817",
+			 "location": "S2",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "10:30", 
+			 "endHour": "11:15",
+			 "activity" : "Cycling",
+			 "color": "FF413B",
+			 "location": "S3",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "11:00", 
+			 "endHour": "11:50",
+			 "activity" : "Esquena Sana",
+			 "color": "B5D436",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "11:00", 
+			 "endHour": "11:50",
+			 "activity" : "Qigong",
+			 "color": "9D2CB0",
+			 "location": "S5",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "11:05", 
+			 "endHour": "11:50",
+			 "activity" : "Aigua CTC",
+			 "color": "FFE817",
+			 "location": "PG",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "11:15", 
+			 "endHour": "11:30",
+			 "activity" : "Abdominals 15' SF",
+			 "color": "FFE817",
+			 "location": "Sala Fitness",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "11:15", 
+			 "endHour": "12:05",
+			 "activity" : "Pilates",
+			 "color": "9D2CB0",
+			 "location": "S2",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "11:30", 
+			 "endHour": "12:00",
+			 "activity" : "Radikal/Funcional",
+			 "color": "FFE817",
+			 "location": "Sala Fitness",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "12:00", 
+			 "endHour": "12:30",
+			 "activity" : "Duet Walking 30'",
+			 "color": "FF413B",
+			 "location": "Sala Fitness",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "12:05", 
+			 "endHour": "12:55",
+			 "activity" : "Ioga",
+			 "color": "9D2CB0",
+			 "location": "S5",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "12:05", 
+			 "endHour": "12:55",
+			 "activity" : "Tai-Txí",
+			 "color": "9D2CB0",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "12:10", 
+			 "endHour": "13:00",
+			 "activity" : "Esquena Sana",
+			 "color": "B5D436",
+			 "location": "S2",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "13:30", 
+			 "endHour": "13:45",
+			 "activity" : "Abdominals 15' SF",
+			 "color": "FFE817",
+			 "location": "Sala Fitness",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "13:45", 
+			 "endHour": "14:15",
+			 "activity" : "Radikal/Funcional",
+			 "color": "FFE817",
+			 "location": "Sala Fitness",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "13:45", 
+			 "endHour": "14:30",
+			 "activity" : "Zumba",
+			 "color": "FF413B",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "14:15", 
+			 "endHour": "15:00",
+			 "activity" : "Cycling",
+			 "color": "FF413B",
+			 "location": "S3",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "14:30", 
+			 "endHour": "15:00",
+			 "activity" : "Pilates 30'",
+			 "color": "9D2CB0",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "15:15", 
+			 "endHour": "16:00",
+			 "activity" : "Cycling",
+			 "color": "FF413B",
+			 "location": "S3",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "15:30", 
+			 "endHour": "16:00",
+			 "activity" : "GAC 30'",
+			 "color": "FFE817",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "16:00", 
+			 "endHour": "16:30",
+			 "activity" : "Aiguagym 30'",
+			 "color": "FFE817",
+			 "location": "PP",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "16:00", 
+			 "endHour": "16:50",
+			 "activity" : "Duet Dance",
+			 "color": "FF413B",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "16:30", 
+			 "endHour": "17:15",
+			 "activity" : "Aigua CTC",
+			 "color": "FFE817",
+			 "location": "PP",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "17:00", 
+			 "endHour": "17:50",
+			 "activity" : "Tonificacio",
+			 "color": "FFE817",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "17:00", 
+			 "endHour": "17:50",
+			 "activity" : "Estiraments Holistics",
+			 "color": "9D2CB0",
+			 "location": "S5",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "17:30", 
+			 "endHour": "18:00",
+			 "activity" : "Radikal/Funcional",
+			 "color": "FFE817",
+			 "location": "Sala Fitness",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "18:00", 
+			 "endHour": "18:15",
+			 "activity" : "Abdominals 15' SF",
+			 "color": "FFE817",
+			 "location": "Sala Fitness",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "18:00", 
+			 "endHour": "18:50",
+			 "activity" : "Pilates",
+			 "color": "9D2CB0",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "18:15", 
+			 "endHour": "18:45",
+			 "activity" : "DS Training",
+			 "color": "FFE817",
+			 "location": "Sala Fitness",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "18:15", 
+			 "endHour": "18:45",
+			 "activity" : "GAC 30'",
+			 "color": "FFE817",
+			 "location": "S2",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "18:15", 
+			 "endHour": "19:00",
+			 "activity" : "Cycling",
+			 "color": "FF413B",
+			 "location": "S3",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "18:50", 
+			 "endHour": "19:05",
+			 "activity" : "Abdominals 15' SF",
+			 "color": "FFE817",
+			 "location": "S2",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "19:00", 
+			 "endHour": "19:50",
+			 "activity" : "Ioga",
+			 "color": "9D2CB0",
+			 "location": "S5",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "19:00", 
+			 "endHour": "19:50",
+			 "activity" : "Body Pump",
+			 "color": "FFE817",
+			 "location": "S4",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "19:15", 
+			 "endHour": "20:00",
+			 "activity" : "Cycling",
+			 "color": "FF413B",
+			 "location": "S3",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "19:15", 
+			 "endHour": "20:05",
+			 "activity" : "Step Bàsic",
+			 "color": "FF413B",
+			 "location": "S2",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "19:30", 
+			 "endHour": "20:15",
+			 "activity" : "Duet Walking",
+			 "color": "FF413B",
+			 "location": "Sala Fitness",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "19:30", 
+			 "endHour": "20:30",
+			 "activity" : "Runners",
+			 "color": "FF413B",
+			 "location": "Sala Fitness",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "19:55", 
+			 "endHour": "20:10",
+			 "activity" : "Abdominals 15' SF",
+			 "color": "FFE817",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "20:10", 
+			 "endHour": "20:55",
+			 "activity" : "Aigua CTC",
+			 "color": "FFE817",
+			 "location": "PG",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "20:15", 
+			 "endHour": "21:00",
+			 "activity" : "Cycling",
+			 "color": "FF413B",
+			 "location": "S3",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "20:15", 
+			 "endHour": "21:05",
+			 "activity" : "Body Combat",
+			 "color": "FF413B",
+			 "location": "S4",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "20:15", 
+			 "endHour": "21:05",
+			 "activity" : "Aeróbic",
+			 "color": "FF413B",
+			 "location": "S2",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "20:50", 
+			 "endHour": "21:50",
+			 "activity" : "Swimming",
+			 "color": "FFE817",
+			 "location": "PG",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "21:15", 
+			 "endHour": "21:45",
+			 "activity" : "PEB 30'",
+			 "color": "FFE817",
+			 "location": "S2",
+			 "intensity":"1"
+			}
+			,
+			{"startHour": "21:15", 
+			 "endHour": "22:00",
+			 "activity" : "Cycling",
+			 "color": "FF413B",
+			 "location": "S3",
+			 "intensity":"2"
+			}
+			,
+			{"startHour": "21:15", 
+			 "endHour": "22:05",
+			 "activity" : "Pilates",
+			 "color": "9D2CB0",
+			 "location": "S4",
+			 "intensity":"1"
+			}
+		 ]
+		 
+		}
+	
+	]
+
+}
